@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Code Talkers</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">gVJ8PNpNwIHJF1yY2zwwD1q3hzHkDbZAvRA7pb7h</string>
+    <string name="back4app_client_key">4k0ojsAu1lElOFiHfA3TJGT7fXwRBqbasW5d57Ml</string>
+</resources>
